@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**Shtrudel7/Shtrudel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Sultan 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Python Developer | Scientific Computing | Machine Learning
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building software, numerical models and scientific tools.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Applied Mathematics student
+- 🐍 Python and C++ development
+- 🔬 Computational materials science
+- 🤖 Machine Learning and numerical simulation
+- 🌐 Web development and automation
+
+### 🛠 Tech Stack
+
+**Languages:** Python, C++, SQL, Bash, JavaScript, Wolfram Language, Matlab etc
+
+**Scientific Computing:** NumPy, SciPy, Pandas, Matplotlib etc.
+
+**Machine Learning:** PyTorch, scikit-learn etc.
+
+**Simulation:** LAMMPS, ASE, Phonopy, TDEP etc.
+
+**Development:** Git, Docker, Linux, Astro etc.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔬 Computational Materials Science
+Molecular dynamics and thermal conductivity
+calculations using scientific simulation tools.
+
+#### 🌐 Educational Web Platform
+A modern learning platform built with Astro and modern web technologies.
+- Interactive learning interfaces
+- User authentication and progress tracking
+- Responsive web design
+
+#### 🤖 Machine Learning
+Development and evaluation of machine learning
+models for predictive modeling and data analysis.
+
+- Data preprocessing and feature engineering
+- Model training and evaluation
+- Numerical data analysis with Python
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shtrudel7&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtrudel7&layout=compact&theme=github_dark)
+
+---
+
+### 📫 Contact
+
+- GitHub: https://github.com/Shtrudel7
+- Email: shtrudelqw@gmail.com
