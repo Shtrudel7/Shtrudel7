@@ -54,13 +54,6 @@ models for predictive modeling and data analysis.
 - Numerical data analysis with Python
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shtrudel7&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtrudel7&layout=compact&theme=github_dark)
-
----
 
 ### 📫 Contact
 
